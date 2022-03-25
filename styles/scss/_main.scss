@@ -89,10 +89,6 @@ $colors: (
   }
 
   /* MAIN ARTIFACTS */
-  .main__artifacts {
-  
-  }
-  
   .main__artifacts ul li {
     list-style-type: none;
     margin: 5px;
@@ -122,10 +118,6 @@ $colors: (
     margin: 10px;
     padding: 10px;
     background-color: map-get($colors, beige);
-  }
-
-  .main__contactform--item {
-
   }
 
   .img__paimonfill {
@@ -223,4 +215,4 @@ $colors: (
     .navbar-links.active {
         display: flex;
     }
-}
+  }

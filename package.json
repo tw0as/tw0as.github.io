@@ -298,5 +298,13 @@
     "yargs-parser": "^20.2.9"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw0as/tw0as.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tw0as/tw0as.github.io/issues"
+  },
+  "homepage": "https://github.com/tw0as/tw0as.github.io#readme",
   "description": ""
 }
