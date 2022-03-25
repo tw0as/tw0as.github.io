@@ -177,6 +177,10 @@ body {
 main {
   margin-top: 40px; }
 
+textarea {
+  max-width: 100%;
+  resize: vertical; }
+
 @font-face {
   src: url(../../font/genshin.ttf);
   font-family: "genshin"; }
